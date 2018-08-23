@@ -1,0 +1,60 @@
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\CoatingSupport.exe.config
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\CoatingSupport.exe
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\CoatingSupport.pdb
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\MetroFramework.Design.dll
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\MetroFramework.dll
+D:\VOC\CoatingSupport\CoatingSupport\bin\Release\MetroFramework.Fonts.dll
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.About.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmEdit.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmError.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmMain.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.Properties.Resources.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmOption.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmSetup.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.frmTeaching.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.csproj.GenerateResource.Cache
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.exe
+D:\VOC\CoatingSupport\CoatingSupport\obj\Release\CoatingSupport.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CoatingSupport.exe.config
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CoatingSupport.exe
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CoatingSupport.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CircularProgressBar.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\WinFormAnimation.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CircularProgressBar.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\CircularProgressBar.xml
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Release\WinFormAnimation.xml
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.About.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmEdit.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmError.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmMain.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.Properties.Resources.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmOption.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmSetup.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.frmTeaching.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.csproj.GenerateResource.Cache
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.exe
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Release\CoatingSupport.csprojResolveAssemblyReference.cache
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CoatingSupport.exe.config
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\Bunifu_UI_v1.5.3.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CircularProgressBar.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\MetroFramework.Design.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\MetroFramework.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\MetroFramework.Fonts.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\WinFormAnimation.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CircularProgressBar.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\CircularProgressBar.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Release\WinFormAnimation.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.About.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmEdit.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmError.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmMain.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.Properties.Resources.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmOption.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmSetup.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.frmTeaching.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Release\CoatingSupport.csproj.GenerateResource.Cache

@@ -1,0 +1,108 @@
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\CoatingSupport.exe.config
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\CoatingSupport.exe
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\CoatingSupport.pdb
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.About.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmEdit.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmError.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmMain.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.Properties.Resources.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmOption.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmSetup.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.frmTeaching.resources
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.csproj.GenerateResource.Cache
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.exe
+D:\VOC\CoatingSupport\CoatingSupport\obj\Debug\CoatingSupport.pdb
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\MetroFramework.Design.dll
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\MetroFramework.dll
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\MetroFramework.Fonts.dll
+D:\VOC\CoatingSupport\CoatingSupport\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.About.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmEdit.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmError.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmMain.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.Properties.Resources.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmOption.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmSetup.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.frmTeaching.resources
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.csproj.GenerateResource.Cache
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CoatingSupport.exe.config
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CoatingSupport.exe
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CoatingSupport.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CircularProgressBar.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\MetroFramework.Design.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\MetroFramework.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\MetroFramework.Fonts.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\WinFormAnimation.dll
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CircularProgressBar.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\CircularProgressBar.xml
+D:\VOC\CoatingSupport - Copy\CoatingSupport\bin\Debug\WinFormAnimation.xml
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.exe
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.pdb
+D:\VOC\CoatingSupport - Copy\CoatingSupport\obj\Debug\CoatingSupport.csprojResolveAssemblyReference.cache
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CoatingSupport.exe.config
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CircularProgressBar.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\EntityFramework.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\MetroFramework.Design.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\MetroFramework.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\MetroFramework.Fonts.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\System.Data.SQLite.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\WinFormAnimation.dll
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CircularProgressBar.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\CircularProgressBar.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\EntityFramework.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\System.Data.SQLite.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\bin\Debug\WinFormAnimation.xml
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.About.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmEdit.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmError.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmMain.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmHistory.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.Properties.Resources.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmOption.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmSetup.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.frmTeaching.resources
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.csproj.GenerateResource.Cache
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1001\CoatingSupport\obj\Debug\CoatingSupport.csprojResolveAssemblyReference.cache
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CoatingSupport.exe.config
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CircularProgressBar.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\EntityFramework.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\EntityFramework.SqlServer.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\MetroFramework.Design.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\MetroFramework.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\MetroFramework.Fonts.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\System.Data.SQLite.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\WinFormAnimation.dll
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CircularProgressBar.pdb
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\CircularProgressBar.xml
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\EntityFramework.xml
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\EntityFramework.SqlServer.xml
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\System.Data.SQLite.xml
+D:\Quyet\CoatingSupport -1002\CoatingSupport\bin\Debug\WinFormAnimation.xml
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.About.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmEdit.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmError.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmMain.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmHistory.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.Properties.Resources.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmOption.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmSetup.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.frmTeaching.resources
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.csproj.GenerateResource.Cache
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.exe
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.pdb
+D:\Quyet\CoatingSupport -1002\CoatingSupport\obj\Debug\CoatingSupport.csprojResolveAssemblyReference.cache
